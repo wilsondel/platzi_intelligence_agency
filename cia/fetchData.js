@@ -34,7 +34,7 @@ fetch("https://storage.scrapinghub.com/items/480471/1/1?apikey=24eef8b48ad6497d9
       data-parent="#accordion"
     >
       <div class="card-body">
-        ${x.body}
+        ${x.paragraph}
         <br>
         <br>
         <a href=${x.url} target="_blank">Ver más</a>
